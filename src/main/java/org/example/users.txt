@@ -1,0 +1,3 @@
+baaska: 6
+nandia: 3
+hulan: 2
